@@ -69,7 +69,7 @@ No frameworks. No build step. No backend.
 You can open the file directly in your browser:
 
 ```
-double-click HOME.html
+double-click index.html
 ```
 
 Most functionality will work immediately.
@@ -84,7 +84,7 @@ python -m http.server 8000
 Then open:
 
 ```
-http://localhost:8000/HOME.html
+http://localhost:8000/index.html
 ```
 
 
