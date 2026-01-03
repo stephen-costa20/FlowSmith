@@ -6,7 +6,7 @@
 </p>
 
 
-# Interactive Workflow Builder
+# ⭐ Interactive Workflow Builder
 
 A fully client-side, interactive workflow builder built with **HTML, SVG, Tailwind CSS, and vanilla JavaScript**.
 This project allows users to visually design workflows using draggable nodes and connectors, configure node properties, attach files, and export/import workflows as JSON — all **without a backend**.
