@@ -10,7 +10,7 @@ The entire application runs in the browser from a single HTML file.
 ## Preview
 
 ```
-docs/screenshots/workflow-builder.png
+![Preview](assets/preview.gif)
 ```
 ---
 
